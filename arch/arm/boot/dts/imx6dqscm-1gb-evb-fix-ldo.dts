@@ -9,7 +9,7 @@
 #include "imx6q-sabresd-ldo.dts"
 
 / {
-	model = "Freescale i.MX6D SCM EVB";
+	model = "Rhomb I-MX6 Core Module";
 	compatible = "fsl,imx6q-sabresd", "fsl,imx6q";
 	memory: memory {
 		linux,usable-memory = <0x10000000 0x20000000
